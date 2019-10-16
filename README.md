@@ -1,3 +1,4 @@
+### This code is associated with the paper from Sloutsky and Naegle, "ASPEN, a methodology for reconstructing protein evolution with improved accuracy using ensemble models". eLife, 2019. http://dx.doi.org/10.7554/eLife.47676
 # ASPEN
 
 ## Summary
